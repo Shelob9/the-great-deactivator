@@ -1,1 +1,0 @@
-I am the great deactivator as a plugin!
